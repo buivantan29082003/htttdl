@@ -23,6 +23,7 @@ public class DonGia {
     @Column(name = "DG_THOIDIEMKETTHUC")
     private Date thoiDiemKetThuc;
     @Column(name = "DMKC_ID")
+
     private DinhMucKhoangCach dinhMucKhoangCach;
     @Column(name = "DMKL_ID")
     private DinhMucKhoiLuong dinhMucKhoiLuong;
