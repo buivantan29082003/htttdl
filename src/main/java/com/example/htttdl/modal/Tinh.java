@@ -21,6 +21,8 @@ public class Tinh {
         return id;
     }
 
+
+    
     public void setId(Integer id) {
         this.id = id;
     }
